@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-*Welcome to my profile*
+### Welcome to my profile
+
 I'm Isaac Robert Owoyemi, a passionate fullstack developer 
 with 4 years of experience in different programing languages. 
 I'm a Developer who's ready to explore every single tech stack.
