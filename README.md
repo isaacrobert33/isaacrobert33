@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on PyScript
 - 💬 Ask me about any Programming concept
-- 📫 How to reach me: +2347063728116 (WhatsApp)
+- 📫 How to reach me: isaacrobertoluwasheun@gmail.com
 - ⚡ Fun fact: Never finish until you're finished.
 -->
