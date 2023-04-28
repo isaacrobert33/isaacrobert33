@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 ## Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=isaacrobert33&theme=highcontrast"/>
+<img src="https://streak-stats.demolab.com?user=isaacrobert33&theme=prussian"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=isaacrobert33&show_icons=true&theme=highcontrast"/>
+<img src="https://github-readme-stats.vercel.app/api?username=isaacrobert33&show_icons=true&theme=prussian"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacrobert33&layout=compact&theme=highcontrast"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacrobert33&theme=prussian"/>
 </p>
 
 <p align="center">
