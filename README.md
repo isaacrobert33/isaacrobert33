@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=isaacrobert33&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=isaacrobert33&row=1&theme=nord"/>
 </p>
 
 ## Languages and Frameworks/Tools
