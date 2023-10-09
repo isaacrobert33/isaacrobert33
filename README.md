@@ -7,7 +7,6 @@ with 4 years of experience in various programing languages and software engineer
 I'm a Developer who's ready to explore every single tech stack.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [MonChat](https://github.com/isaacrobert33/monchat)
 - 🌱 I’m currently learning React
 - 💬 Ask me about any Programming concept
 - 📫 How to reach me: isaacrobertoluwaseun@gmail.com
