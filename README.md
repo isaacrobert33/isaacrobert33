@@ -5,8 +5,7 @@
 I'm Isaac Robert Owoyemi, a passionate software developer
 with 4 years of experience in various programing languages and software engineering. 
 I'm a Developer who's ready to explore every single tech stack.
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=isaacrobert33&label=Total%20Profile%20Views&color=800080&style=flat" alt="isaacrobert33" /> </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacrobert33&" alt="isaacrobert33" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacrobert33&" alt="isaacrobert33" /></p>
 
 Here are some ideas to get you started:
 
