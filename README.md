@@ -9,7 +9,8 @@ I'm a Developer who's ready to explore every single tech stack.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Software Designs & Architectures
+- 🎯️ I’m currently learning Software Designs & Architectures
+- 🔨️ I'm currently working on [Beatdrop]("https://traxxsion.com/")
 - 💬 Ask me about any Programming concept
 - 📫 How to reach me: isaacrobertoluwaseun@gmail.com
 - ⚡ Fun fact: Not over until it's over.
