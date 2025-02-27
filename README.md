@@ -7,13 +7,14 @@ with 4 years of experience in various programing languages and software engineer
 I'm a Developer who's ready to explore every single tech stack.
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacrobert33&" alt="isaacrobert33" /></p>
 
-Check my <a href="https://isaacrobert33.is-a.dev/">links</a>
+
 
 Here are some ideas to get you started:
 
 - 🎯️ I’m currently learning Software Designs & Architectures
 - 🔨️ I'm currently working on [Beatdrop](https://traxxsion.com/)
 - 💬 Ask me about any Programming concept
+- 📝 Check my <a href="https://isaacrobert33.is-a.dev/">links</a>
 - 📫 How to reach me: isaacrobertoluwaseun@gmail.com
 - ⚡ Fun fact: Not over until it's over.
 -->
