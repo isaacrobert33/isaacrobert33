@@ -12,7 +12,7 @@ I'm a Developer who's ready to explore every single tech stack.
 Here are some ideas to get you started:
 
 - 🎯️ I’m currently learning Software Designs & Architectures
-- 🔨️ I'm currently working on [Beatdrop](https://traxxsion.com/)
+- 🔨️ I'm currently working on Healthcare Systems
 - 💬 Ask me about any Programming concept
 - 📝 Check my <a href="https://isaacrobert33.is-a.dev/">links</a>
 - 📫 How to reach me: isaacrobertoluwaseun@gmail.com
